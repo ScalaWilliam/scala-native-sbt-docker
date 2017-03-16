@@ -16,7 +16,7 @@ This image is used for <a href="https://github.com/ScalaWilliam/scala-native-lib
 Assuming your scala-native project is at `/source/project`,
 
 ```
-$ docker run -v /source/project:/p -it scala-native-sbt
+$ docker run -v /source/project:/p -it scalawilliam/scala-native-sbt
 root@248baf99ddc2:/# cd /p
 root@248baf99ddc2:/p# sbt '~run'
 ```
