@@ -7,7 +7,9 @@ This image preloads:
 * SBT
 * scala-native essential dependencies
 
-And runs Debian. This image is used for <a href="https://github.com/ScalaWilliam/scala-native-libpcap">scala-native-libpcap</a>.
+And runs Debian.
+
+This image is used for <a href="https://github.com/ScalaWilliam/scala-native-libpcap">scala-native-libpcap</a>.
 
 ## Usage
 
